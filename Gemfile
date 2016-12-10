@@ -58,3 +58,4 @@ gem 'spree_braintree_vzero', github: 'spree-contrib/spree_braintree_vzero', bran
 gem 'rails_12factor', group: :production
 gem 'aws-sdk', '~> 1.61.0'
 gem 'spree_mail_settings', github: 'spree-contrib/spree_mail_settings', branch: '3-1-stable'
+gem 'spree_static_content', github: 'spree-contrib/spree_static_content', branch: '3-1-stable'
