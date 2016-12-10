@@ -16,6 +16,14 @@ GIT
     spree_mail_settings (3.1.0)
       spree_backend (~> 3.1.0.beta)
 
+GIT
+  remote: git://github.com/spree-contrib/spree_static_content.git
+  revision: 5e8d9ba3ee047da114c71f9ea6a05408ea75b494
+  branch: 3-1-stable
+  specs:
+    spree_static_content (3.1.0)
+      spree_core (~> 3.1.0.beta)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -365,6 +373,7 @@ DEPENDENCIES
   spree_braintree_vzero!
   spree_gateway (~> 3.1.0)
   spree_mail_settings!
+  spree_static_content!
   spring
   sqlite3
   turbolinks
@@ -375,4 +384,4 @@ RUBY VERSION
    ruby 2.3.0p0
 
 BUNDLED WITH
-   1.13.3
+   1.13.6
