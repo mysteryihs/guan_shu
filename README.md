@@ -8,3 +8,5 @@ Uses the following:
 * Deployed on Heroku
 * Image hosting on AWS S3
 * Payment processing using Braintree and Stripe API
+
+View at: https://www.guanshubiotechltd.com/
